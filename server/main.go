@@ -9,6 +9,7 @@ import (
 
 	"github.com/bjdgyc/anylink/base"
 	"github.com/bjdgyc/anylink/handler"
+	"github.com/bjdgyc/anylink/server"
 )
 
 // 程序版本
